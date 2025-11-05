@@ -35,7 +35,7 @@
 ![处理前](before.jpg) | ![处理后](after.jpg)
 -->
 
-![去除图片文字演示](https://sora2watermarkremover.net/og-image-text.jpg)
+![去除图片文字演示](https://sora2watermarkremover.net/og-image-remove-image.jpg)
 
 ## 🚀 快速开始
 
