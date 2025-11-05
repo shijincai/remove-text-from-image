@@ -35,7 +35,7 @@ Our intelligent AI technology offers both automatic text detection and manual se
 ![Before](before.jpg) | ![After](after.jpg)
 -->
 
-![Remove Text from Image Demo](https://sora2watermarkremover.net/og-image-text.jpg)
+![Remove Text from Image Demo](https://sora2watermarkremover.net/og-image-remove-image.jpg)
 
 ## 🚀 Quick Start
 
